@@ -2,7 +2,7 @@
 
 This repository contains an individual implementation of **Principal Component Analysis (PCA)** using a dataset focused on the capital structures of African firms. The project applies multivariate statistics and linear algebra to reduce the dimensionality of financial data while preserving maximum variance.
 
-## 📊 Project Overview
+##  Project Overview
 
 The objective is to transform a high-dimensional financial dataset (containing 37 features) into a lower-dimensional space. This implementation is built manually to demonstrate a deep understanding of the mathematical mechanics behind dimensionality reduction.
 
@@ -15,7 +15,7 @@ The objective is to transform a high-dimensional financial dataset (containing 3
 * **Optimization (Task 3)**: Use of vectorized matrix operations to ensure the algorithm handles large-scale datasets effectively.
 
 
-## 📈 Visual Analysis
+##  Visual Analysis
 
 ### 1. Eigenvalue Spectrum (Scree Plot)
 
@@ -30,7 +30,7 @@ The results include a side-by-side comparison of the data in its original featur
 To satisfy Task 3, the project includes a benchmark demonstrating that the execution time scales linearly with the number of samples, proving the efficiency of the optimized manual implementation.
 
 
-## ⚙️ Setup and Usage
+##  Setup and Usage
 
 ### 1. Installation
 
