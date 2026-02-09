@@ -1,7 +1,3 @@
-Here is the complete content for your **README.md** file. You can copy and paste this directly into a new file named `README.md` in your GitHub repository.
-
-
-
 # Principal Component Analysis (PCA) from Scratch
 
 This repository contains my individual implementation of **Principal Component Analysis (PCA)** using a dataset focused on African firms' capital structures. This project applies advanced linear algebra and multivariate probability concepts to perform dimensionality reduction while preserving maximum data variance.
@@ -45,7 +41,7 @@ pip install pandas numpy matplotlib
 * **NumPy**: The primary library for matrix mathematics, manual standardization, and eigendecomposition.
 * **Matplotlib**: Used for generating the "Before and After" 2D visualizations of the PCA results.
 
-\
+
 
 ## 🚀 How to Use
 
